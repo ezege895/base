@@ -8,6 +8,4 @@ feat: add timeAgo() relative time formatter
 feat: add isWeekend() day checker
 feat: add daysBetween() date diff calculator
 refactor: extract shared type-checking into helpers.js
-refactor: replace manual null checks with isNil()
-
- 
+refactor: replace manual null  
