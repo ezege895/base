@@ -9,7 +9,7 @@ feat: add memoize() for caching return values
 chore: install jest for unit testing
 test: add tests for capitalize()
 test: add tests for truncate() edge cases
-test: add tests for unique() with duplicates
+test: add tests for unique() 
  
 
 
