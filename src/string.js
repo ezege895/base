@@ -6,6 +6,6 @@ chore: add .eslintrc.json with base rules
 chore: add .prettierrc formatting config
 chore: create src/ folder structure
 feat: add capitalize() string helper
-feat: add truncate() with default max length
+feat: add truncate() with default m
 
  
