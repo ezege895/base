@@ -5,6 +5,5 @@ feat: add omit() to exclude keys from object
 feat: add isEmpty() for objects and arrays
 feat: add formatDate() with default locale
 feat: add timeAgo() relative time formatter
-feat: add isWeekend()  
  
  
