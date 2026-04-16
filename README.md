@@ -6,7 +6,7 @@ feat: add formatCurrency() with locale support
 feat: add debounce() function for performance
 feat: add throttle() with delay option
 feat: add memoize() for caching return values
-chore: install jest for unit testing
+chore: install jest for 
 test 
 
 
