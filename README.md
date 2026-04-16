@@ -7,8 +7,7 @@ feat: add debounce() function for performance
 feat: add throttle() with delay option
 feat: add memoize() for caching return values
 chore: install jest for unit testing
-test: add tests for capitalize()
- 
+test: add tests 
  
 
 
