@@ -12,4 +12,4 @@ refactor: replace manual null checks with isNil()
 refactor: rename internal _check to validateInput
 test: add tests for deepClone()
 test: add tests for formatDate() formats
-test: add tests for timeAgo() edge  
+test: add tests for  
