@@ -8,6 +8,6 @@ chore: create src/ folder structure
 feat: add capitalize() string helper
 feat: add truncate() with default max length
 feat: add trim() alias with null safety
-feat: add unique() array deduplication helper
+feat: add unique() 
  
  
